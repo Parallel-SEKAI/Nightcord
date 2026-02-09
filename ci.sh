@@ -2,10 +2,10 @@
 
 # --- Configuration ---
 TASKS=(
-    "pnpm run lint"
-    "pnpm run type-check"
-    "pnpm run test"
-    "pnpm run build"
+    "pnpm lint"
+    "pnpm type-check"
+    "pnpm build"
+    "pnpm format"
 )
 NUM_TASKS=${#TASKS[@]}
 SYMBOL_FILLED="━"

@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Nightcord at 25:00"
+  },
+  "sidebar": {
+    "voiceChat": "Voice Chat",
+    "offline": "Offline",
+    "music": "Music",
+    "calendar": "Calendar",
+    "stopwatch": "Stopwatch",
+    "countdown": "Countdown",
+    "pomodoro": "Pomodoro",
+    "calculator": "Calculator",
+    "todoList": "Todo List",
+    "converter": "Converter",
+    "worldClock": "World Clock",
+    "notes": "Notes",
+    "settings": "Settings",
+    "work": "Work"
+  },
+  "settings": {
+    "title": "Settings",
+    "aiConfig": "AI Configuration",
+    "baseUrl": "Base URL",
+    "apiKey": "API Key",
+    "model": "Model",
+    "musicConfig": "Music Configuration",
+    "neteaseBaseUrl": "Netease Cloud Music Base URL",
+    "language": "Language",
+    "done": "Done"
+  },
+  "chat": {
+    "channelName": "Work",
+    "placeholder": "Message #{{channel}}"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    },
+    "days": {
+      "su": "Su",
+      "mo": "Mo",
+      "tu": "Tu",
+      "we": "We",
+      "th": "Th",
+      "fr": "Fr",
+      "sa": "Sa"
+    }
+  },
+  "todoList": {
+    "title": "Todo List",
+    "placeholder": "Add a new task...",
+    "empty": "No tasks yet. Add one above!"
+  },
+  "pomodoro": {
+    "title": "Pomodoro Timer",
+    "work": "Work",
+    "shortBreak": "Short",
+    "longBreak": "Long",
+    "focusing": "Focusing",
+    "resting": "Resting",
+    "paused": "Paused"
+  },
+  "stopwatch": {
+    "title": "Stopwatch"
+  }
+}

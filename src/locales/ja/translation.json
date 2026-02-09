@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "25時、ナイトコードで。"
+  },
+  "sidebar": {
+    "voiceChat": "ボイスチャット",
+    "offline": "オフライン",
+    "music": "音楽",
+    "calendar": "カレンダー",
+    "stopwatch": "ストップウォッチ",
+    "countdown": "カウントダウン",
+    "pomodoro": "ポモドーロ",
+    "calculator": "電卓",
+    "todoList": "ToDoリスト",
+    "converter": "単位変換",
+    "worldClock": "世界時計",
+    "notes": "メモ",
+    "settings": "設定",
+    "work": "作業"
+  },
+  "settings": {
+    "title": "設定",
+    "aiConfig": "AI設定",
+    "baseUrl": "ベースURL",
+    "apiKey": "APIキー",
+    "model": "モデル",
+    "musicConfig": "音楽設定",
+    "neteaseBaseUrl": "Netease Cloud Music ベースURL",
+    "language": "言語",
+    "done": "完了"
+  },
+  "chat": {
+    "channelName": "作業",
+    "placeholder": "#{{channel}} へメッセージを送信"
+  },
+  "calendar": {
+    "title": "カレンダー",
+    "months": {
+      "january": "1月",
+      "february": "2月",
+      "march": "3月",
+      "april": "4月",
+      "may": "5月",
+      "june": "6月",
+      "july": "7月",
+      "august": "8月",
+      "september": "9月",
+      "october": "10月",
+      "november": "11月",
+      "december": "12月"
+    },
+    "days": {
+      "su": "日",
+      "mo": "月",
+      "tu": "火",
+      "we": "水",
+      "th": "木",
+      "fr": "金",
+      "sa": "土"
+    }
+  },
+  "todoList": {
+    "title": "ToDoリスト",
+    "placeholder": "新しいタスクを追加...",
+    "empty": "タスクがありません。"
+  },
+  "pomodoro": {
+    "title": "ポモドーロタイマー",
+    "work": "作業",
+    "shortBreak": "短休憩",
+    "longBreak": "長休憩",
+    "focusing": "集中",
+    "resting": "休憩",
+    "paused": "一時停止"
+  },
+  "stopwatch": {
+    "title": "ストップウォッチ"
+  }
+}

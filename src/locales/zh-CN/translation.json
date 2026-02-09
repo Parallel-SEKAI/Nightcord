@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "25时，在Nightcord。"
+  },
+  "sidebar": {
+    "voiceChat": "语音聊天",
+    "offline": "离线",
+    "music": "音乐",
+    "calendar": "日历",
+    "stopwatch": "秒表",
+    "countdown": "倒计时",
+    "pomodoro": "番茄钟",
+    "calculator": "计算器",
+    "todoList": "待办事项",
+    "converter": "单位转换",
+    "worldClock": "世界时钟",
+    "notes": "备忘录",
+    "settings": "设置",
+    "work": "工作"
+  },
+  "settings": {
+    "title": "设置",
+    "aiConfig": "AI 配置",
+    "baseUrl": "Base URL",
+    "apiKey": "API Key",
+    "model": "模型",
+    "musicConfig": "音乐配置",
+    "neteaseBaseUrl": "网易云音乐 Base URL",
+    "language": "语言",
+    "done": "完成"
+  },
+  "chat": {
+    "channelName": "工作",
+    "placeholder": "发送消息到 #{{channel}}"
+  },
+  "calendar": {
+    "title": "日历",
+    "months": {
+      "january": "一月",
+      "february": "二月",
+      "march": "三月",
+      "april": "四月",
+      "may": "五月",
+      "june": "六月",
+      "july": "七月",
+      "august": "八月",
+      "september": "九月",
+      "october": "十月",
+      "november": "十一月",
+      "december": "十二月"
+    },
+    "days": {
+      "su": "日",
+      "mo": "一",
+      "tu": "二",
+      "we": "三",
+      "th": "四",
+      "fr": "五",
+      "sa": "六"
+    }
+  },
+  "todoList": {
+    "title": "待办事项",
+    "placeholder": "添加新任务...",
+    "empty": "暂无任务。"
+  },
+  "pomodoro": {
+    "title": "番茄钟",
+    "work": "工作",
+    "shortBreak": "短休",
+    "longBreak": "长休",
+    "focusing": "专注中",
+    "resting": "休息中",
+    "paused": "已暂停"
+  },
+  "stopwatch": {
+    "title": "秒表"
+  }
+}
