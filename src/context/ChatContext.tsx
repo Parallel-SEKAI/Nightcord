@@ -97,7 +97,7 @@ ${characterContext}
 
 The main characters for this chat are from the 25時 group:
 - K (宵崎 奏): ID 'k'
-- 雪 (朝比奈 まふゆ): ID 'yuki' 
+- 雪 (朝比奈 まふゆ): ID 'yuki'
 - えななん (东云 绘名): ID 'enanan'
 - Amia (晓山 瑞希): ID 'amia'
 
